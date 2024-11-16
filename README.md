@@ -5,7 +5,7 @@
 ```bash
 export INCUS_NAME=pete-myriplane
 
-./create_machine.sh --os ubuntu/22.04 --name $INCUS_NAME --target H93 --vm
+./create_machine.sh 
 ```
 
 ## Install everything you need
